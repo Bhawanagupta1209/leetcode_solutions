@@ -29,3 +29,4 @@ class Main {
         Arrays.fill(dp,-1);
         System.out.print(frogJump(n-1,heights,k,dp)); // Output: 30
     }
+}
